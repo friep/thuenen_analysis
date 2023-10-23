@@ -122,5 +122,14 @@ ggplot(rural_funding_summary, aes(x = Ländlichkeit, y = mean_funding)) +
   theme_minimal()
 
 
+# Group by Typologie and summarize the mean funding
+typology_funding_summary <- merged_datasets %>%
+  group_by(Typologie) %>%
+  summarize(mean_funding = mean(z_auszahlungsbetrag, na.rm = TRUE),
+            count = n()) %>%
+  arrange(Typologie)
+typology_funding_summary
 
-
+ggplot(merged_datasets, aes(group = as.character(Typologie), x = as.character(Typologie), y = z_auszahlungsbetrag))+
+  geom_boxplot()+
+  geom_point(alpha = 0.5)
