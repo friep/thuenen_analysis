@@ -1,0 +1,7 @@
+Zur Bestimmung der Ländlichkeit werden fünf Indikatoren mittels eines statistischen Verfahrens zu einem Index verknüpft:  
+- Siedlungsdichte 2013,  
+- Anteil der land- und forstwirtschaftlichen Fläche an der Gesamtfläche 2013,  
+- Anteil der Ein- und Zweifamilienhäuser an allen Wohngebäuden 2013,  
+- regionales Bevölkerungspotenzial 2011 (Summe der auf das 1-km-Raster von Eurostat projizierten Bevölkerungszahl im 50-km-Radius bei proportional mit der Luftliniendistanz abnehmender Gewichtung) sowie
+- Erreichbarkeit großer Zentren (proportional mit der Straßendistanz gewichtete Summe der Bevölkerungszahl der nächsten fünf Oberzentren in Deutschland oder funktionalen städtischen Zentren im Ausland gemäß Bundesinstitut für Bau-, Stadt- und Raumforschung [Datenstand 2014/2015]).  
+Die Ländlichkeit ist tendenziell umso ausgeprägter, je geringer die Siedlungsdichte, je höher der Anteil land- und forstwirtschaftlicher Fläche, je höher der Anteil der Ein- und Zweifamilienhäuser, je geringer das Bevölkerungspotenzial und je schlechter die Erreichbarkeit großer Zentren ist.

@@ -1,0 +1,11 @@
+Thünen-Typen ländlicher Räume
+
+Thünen-Typ 1: sehr ländlich/weniger gute sozioökonomische Lage
+Thünen-Typ 2: sehr ländlich/gute sozioökonomische Lage
+Thünen-Typ 3: eher ländlich/gute sozioökonomische Lage
+Thünen-Typ 4: eher ländlich/weniger gute sozioökonomische Lage
+Thünen-Typ 5: nicht ländlich"Thünen-Typen ländlicher Räume
+
+
+Methodik: Dr. Patrick Küpper, Thünen-Institut für Ländliche Räume 2016 (https://literatur.thuenen.de/digbib_extern/dn057783.pdf)
+Aufbereitung: Torsten Osigus / Dr. Stefan Neumeier 2016, Thünen-Institut für Ländliche Räume 2016
